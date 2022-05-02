@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  coincapApiBase: 'https://api.coincap.io/v2',
 };
