@@ -38,7 +38,7 @@ export class HomeComponent implements OnInit {
       { field: 'id', header: 'ID' },
       { field: 'symbol', header: 'Symbol' },
       { field: 'name', header: 'Name' },
-      { field: 'priceUsd', header: 'Price in USD' },
+      { field: 'priceUsd', header: 'Price' },
     ];
 
     this.exchangeColumns = [
